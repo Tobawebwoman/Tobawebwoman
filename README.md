@@ -24,10 +24,10 @@ I am currently transitioning into the tech space with a focus on user-centered d
 
 ## Skills & Tools
 - Design: Figma, Miro, Canva, 
-- Time Management | Team Collaboration | Attention to Detail
+- Time Management | Team Collaboration | Attention to Detail  | Effective Communication  | Empathy  | Speaking skills
 ## Certifications
 - Canva for Visual  
-- BE.d English Language- Lagos State University, Ojo
+- BE. D English Language- Lagos State University, Ojo
 ## Projects
 -  <a href="https://github.com/pocre8/Elevate-Mental-Health-App-Presentation">Elevate Mental Health App Presentation</a>
 -  <a href="https://github.com/pocre8/Elevate-Mental-Health-App-Wireframe-UX-Research-Slide-Deck/tree/main">Elevate Mental App Wirframe & Ux Research</a>
